@@ -1,5 +1,5 @@
-# RPC-L1-Full-Node-Eth-Sepolia
 # Membuat RPC Full Node Ethereum L1 (Sepolia Testnet) dengan Resource Minimal
+## Mandiri tanpa sewa
 
 Berikut panduan lengkap untuk membuat full node Ethereum Sepolia Testnet dengan resource minimal, termasuk instalasi, konfigurasi, dan pengujian.
 
