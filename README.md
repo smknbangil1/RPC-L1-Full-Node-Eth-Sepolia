@@ -164,5 +164,6 @@ Dengan konfigurasi di atas, Anda telah membuat full node Ethereum Sepolia Testne
 - Mengembangkan dan menguji smart contract
 - Membuat transaksi tanpa bergantung pada provider pihak ketiga
 - Membaca data blockchain secara langsung
+- Panduan RPC L2 Fullnode mandiri, menyusul, tanpa sewa pihak ketiga (alchemy dsb...) lebih hemat biaya untuk keperluan testnet maupun mainnet
 
-Untuk mainnet Ethereum, persyaratan hardware akan lebih tinggi (minimal 2TB SSD dan 16GB RAM).
+Untuk mainnet Ethereum, persyaratan hardware akan lebih tinggi (minimal 2TB SSD, CPU 8 core dan 16GB RAM).
